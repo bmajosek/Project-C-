@@ -1,0 +1,1 @@
+Aby włączyć program należy wejść do folderu Exe oraz uruchomić plik Uruchom.exe, następnie wybrać jedną z dwóch opcji, przedtem zapisać dane wejściowe w pliku in.txt w folderze Input. Program wykonany w Visual Studio 2019. Wykonał: Bartosz Maj
